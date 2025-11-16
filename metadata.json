@@ -1,0 +1,5 @@
+{
+  "name": "SCOR-RISK 3D Simulation",
+  "description": "An interactive 3D simulation game for learning the SCOR (Supply Chain Operations Reference) model. Students analyze risk scenarios across various industries and make critical decisions, receiving AI-powered feedback.",
+  "requestFramePermissions": []
+}
